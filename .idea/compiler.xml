@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="e-commerce-product" />
+        <module name="e-commerce-security" />
+        <module name="e-commerce-redis" />
+        <module name="e-commerce-mybatis" />
+        <module name="e-commerce-admin" />
+        <module name="e-commerce-order" />
+        <module name="e-commerce-wallet" />
+        <module name="e-commerce-common" />
+        <module name="e-commerce-basicInfo" />
+        <module name="e-commerce-zuul" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="e-commerce" target="1.8" />
+      <module name="e-commerce-admin" target="1.8" />
+      <module name="e-commerce-basicInfo" target="1.8" />
+      <module name="e-commerce-common" target="1.8" />
+      <module name="e-commerce-mybatis" target="1.8" />
+      <module name="e-commerce-order" target="1.8" />
+      <module name="e-commerce-product" target="1.8" />
+      <module name="e-commerce-redis" target="1.8" />
+      <module name="e-commerce-security" target="1.8" />
+      <module name="e-commerce-wallet" target="1.8" />
+      <module name="e-commerce-zuul" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

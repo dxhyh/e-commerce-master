@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      name: e-commerce-product
+      profile: dev
+      uri: http://host.docker.internal:8888 # docker本地部署时应改为 http://host.docker.internal:8888
+      label: master
+  profiles:
+    active: dev

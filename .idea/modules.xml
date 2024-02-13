@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-config-server/.mvn/.mvn.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-config-server/.mvn/.mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-admin/e-commerce-admin.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-admin/e-commerce-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-basicInfo/e-commerce-basicInfo.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-basicInfo/e-commerce-basicInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-common/e-commerce-common.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-common/e-commerce-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e-commerce-master.iml" filepath="$PROJECT_DIR$/.idea/e-commerce-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-mybatis/e-commerce-mybatis.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-mybatis/e-commerce-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-order/e-commerce-order.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-order/e-commerce-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-product/e-commerce-product.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-product/e-commerce-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-redis/e-commerce-redis.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-redis/e-commerce-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-security/e-commerce-security.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-security/e-commerce-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-wallet/e-commerce-wallet.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-wallet/e-commerce-wallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-zuul/e-commerce-zuul.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-zuul/e-commerce-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/e-commerce-master/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-config-server/src/main/main.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-config-server/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e-commerce-master/e-commerce-config-server/src/test/test.iml" filepath="$PROJECT_DIR$/e-commerce-master/e-commerce-config-server/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
